@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "unique_1",
+      "name": "Tural Abdulxaliqov",
+      "salary": "2000AZN",
+      "sobe": "Dizayner"
+    },
+    {
+      "id": "unique_2",
+      "name": "Hemze Ismayilov",
+      "salary": "2050AZN",
+      "sobe": "Geofizik"
+    },
+    {
+      "name": "Nicat Ceferov",
+      "sobe": "Jurnalist",
+      "salary": "1200",
+      "id": "XedzL4-"
+    }
+  ]
+}
